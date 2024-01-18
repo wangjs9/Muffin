@@ -1,0 +1,6 @@
+{
+  "task": "empathy",
+  "instruction": "In the context of empathy, there are three aspects: (1) emotional reactions: expressing emotions such as warmth, compassion, and concern, experienced by peer supporter after reading seeker's post, (2) interpretations: communicating an understanding of feelings and experiences inferred from the seeker's post, and (3) explorations: improving understanding of the seeker by exploring the feelings and experiences not stated in the post. Each aspect has no communication, weak communication, and strong communication, which depend on how the related content is expressed. Empathy level is determined by the maximum level of these three aspects.\n Identify the empathy level of the supporter's response in the input conversation.",
+  "input": "seeker says: '{context}'\nsupporter says: '{response}'",
+  "option": "No Empathy, Weak Empathy, Strong Empathy"
+}

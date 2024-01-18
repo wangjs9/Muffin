@@ -1,0 +1,17 @@
+{
+  "valid_loss": 2.577624797821045,
+  "valid_ppl": 13.788583755493164,
+  "valid_Bleu_1": 0.22742939795022757,
+  "valid_Bleu_2": 0.10195930190646439,
+  "valid_Bleu_3": 0.05707029290713337,
+  "valid_Bleu_4": 0.0355959727631097,
+  "valid_METEOR": 0.09482209601815585,
+  "valid_ROUGE_L": 0.22619398062034157,
+  "valid_CIDEr": 0.35225414798619825,
+  "valid_EmbeddingAverageCosineSimilarity": 0.9232,
+  "valid_VectorExtremaCosineSimilarity": 0.533544,
+  "valid_GreedyMatchingScore": 0.74573,
+  "valid_runtime": 182.5671,
+  "valid_samples_per_second": 11.431,
+  "valid_steps_per_second": 0.718
+}

@@ -1,0 +1,6 @@
+{
+  "description": "A shorter template to experiment with.",
+  "prompt_input": "### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Options:\n{option}\n\n### Answer:\n",
+  "prompt_no_input": "### Instruction:\n{instruction}\n\n### Answer:\n",
+  "response_split": "### Answer:"
+}

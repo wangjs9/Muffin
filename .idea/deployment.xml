@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="jiashuo@10.21.4.74:22 password(Muffin)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="158.132.11.214">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Documents/Muffin" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiashuo@10.21.4.74:22 password (MM)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Muffin" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiashuo@10.21.4.74:22 password (PPO)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Muffin" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiashuo@10.21.4.74:22 password (TF)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Muffin" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiashuo@10.21.4.74:22 password (esc)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Muffin" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiashuo@10.21.4.74:22 password(Muffin)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Muffin" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

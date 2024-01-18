@@ -1,0 +1,6 @@
+{
+  "task": "coherence",
+  "instruction": "Identify whether the supporter response is coherent with what the seeker post. A coherent response will maintain a logical flow of ideas that corresponds with the post. And a coherent response often includes supporting arguments or evidence that directly relate to the post's content.",
+  "input": "seeker says: '{context}'\nsupporter says: '{response}'",
+  "option": "Yes, No"
+}
