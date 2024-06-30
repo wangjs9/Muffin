@@ -39,8 +39,7 @@ def process(
                     processed_line = {
                         "task": value["task"],
                         "instruction": value["instruction"],
-                        "input": value["input"].format(context=context[-1], response=candidate),
-                        "option": value["option"]
+                        "input": value["input"].format(context=context[-1], response=candidate)
                     }
                     processed[key].append(processed_line)
                 except:

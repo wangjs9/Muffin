@@ -3,10 +3,11 @@ import os
 import pickle
 
 context_dict = {
-    "MultiESC": json.load(open("../MultiESC/mitigate_output/test_dataset.json", "r")),
-    "strat": json.load(open("../ESConv/context.json")),
-    "vanilla": json.load(open("../ESConv/context.json")),
-    "KEMI": json.load(open("../ESConv/context.json")),
+    "MultiESC": json.load(open("output_candidates/MultiESC_base.json", "r")),
+    "strat": json.load(open("output_candidates/strat_base.json", "r")),
+    "vanilla": json.load(open("output_candidates/vanilla_base.json", "r")),
+    "KEMI": json.load(open("output_candidates/KEMI_base.json", "r")),
+    "TransESC": json.load(open("output_candidates/TransESC_base.json", "r")),
 }
 
 
@@ -75,9 +76,7 @@ def MultiESC_generation():
     for base, muffin, line in zip(base_responses, muffin_responses, context):
         base_generation.append({
             "sample_id": line["sample_id"],
-            "situation": line["situation"],
             "context": line["context"],
-            "response": line["response"],
             "MultiESC base": base,
             "MultiESC muffin": muffin,
         })
@@ -92,11 +91,11 @@ def MultiESC_generation():
 
 def format_all():
     vanilla_base_path = "../ESConv/DATA/vanilla.vanilla/2023-06-20204748.3e-05.16.1gpu/inference_results/test_generations.json"
-    vanilla_muffin_path = "../ESConv/DATA/vanilla.vanilla/2023-06-20204748_muffin_2023-07-26143450/mitigate_vanilla_600/inference_results/test_generations.json"
+    vanilla_muffin_path = "../ESConv/DATA/vanilla.vanilla/2023-06-20204748_muffin_2023-07-26143450/inference_results/test_generations.json"
     strat_base_path = "../ESConv/DATA/strat.strat/2023-06-20204057.3e-05.16.1gpu/inference_results/test_generations.json"
-    strat_muffin_path = "../ESConv/DATA/strat.strat/2023-06-20204057_muffin_2023-07-25191121/mitigate_strat_400/inference_results/test_generations.json"
+    strat_muffin_path = "../ESConv/DATA/strat.strat/2023-06-20204057_muffin_2023-07-25191121/inference_results/test_generations.json"
     KEMI_base_path = "../KEMI/DATA/strat.strat.esconv.sbert/2023-06-30223758.3e-05.16.1gpu/res_epoch-4.bin_test_k.30_p.0.3_b.1_t.0.7_lp.1.0_rp.1.0_ng.3/gen.json"
-    KEMI_muffin_path = "../KEMI/DATA/strat.strat.esconv.sbert/2023-06-30223758_muffin_2023-07-26204506/mitigate_strat_200/res_model.bin_test_k.30_p.0.3_b.1_t.0.7_lp.1.0_rp.1.0_ng.3/gen.json"
+    KEMI_muffin_path = "../KEMI/DATA/strat.strat.esconv.sbert/2023-06-30223758_muffin_2023-07-26204506/res_model.bin_test_k.30_p.0.3_b.1_t.0.7_lp.1.0_rp.1.0_ng.3/gen.json"
     TransESC_real_path = "../TransESC/generated_data/ref_strategy.json"
     TransESC_base_path = "../TransESC/generated_data/summary.txt"
     TransESC_muffin_path = "../TransESC/mitigation_data/summary.txt"
@@ -104,15 +103,18 @@ def format_all():
     context = context_dict["vanilla"]
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
+
     ######### process vanilla and strat #########
     vanilla_base_data = json.load(open(vanilla_base_path, "r"))
     vanilla_muffin_data = json.load(open(vanilla_muffin_path, "r"))
     strat_base_data = json.load(open(strat_base_path, "r"))
     strat_muffin_data = json.load(open(strat_muffin_path, "r"))
     output_data = []
+    assert len(vanilla_base_data) == len(vanilla_muffin_data) == len(strat_base_data) == len(strat_muffin_data) == len(
+        context)
     for idx, (vanilla_base, vanilla_muffin, strat_base, strata_muffin) \
             in enumerate(zip(vanilla_base_data, vanilla_muffin_data, strat_base_data, strat_muffin_data)):
-        response = vanilla_base["response"]
+        # response = vanilla_base["response"]
         vanilla_base_generation = vanilla_base["generation"]
         vanilla_muffin_generation = vanilla_muffin["generation"]
         strat_base_generation = strat_base["generation"]
@@ -120,7 +122,7 @@ def format_all():
         output_data.append({
             "sample_id": vanilla_base["sample_id"],
             "context": context[idx]["context"],
-            "response": response,
+            # "response": response,
             "vanilla base": vanilla_base_generation,
             "vanilla muffin": vanilla_muffin_generation,
             "strat base": strat_base_generation,
@@ -128,23 +130,27 @@ def format_all():
         })
     output_path = os.path.join(output_dir, "vanilla_strat.json")
     json.dump(output_data, open(output_path, "w"), indent=4)
+
     ######### process KEMI #########
     KEMI_base_data = json.load(open(KEMI_base_path, "r"))
     KEMI_muffin_data = json.load(open(KEMI_muffin_path, "r"))
     output_data = []
+    context = context_dict["KEMI"]
+    assert len(KEMI_base_data) == len(KEMI_muffin_data) == len(context)
     for idx, (KEMI_base, KEMI_muffin) in enumerate(zip(KEMI_base_data, KEMI_muffin_data)):
-        response = KEMI_base["response"]
+        # response = KEMI_base["response"]
         KEMI_base_generation = KEMI_base["generation"]
         KEMI_muffin_generation = KEMI_muffin["generation"]
         output_data.append({
             "sample_id": KEMI_base["sample_id"],
             "context": context[idx]["context"],
-            "response": response,
+            # "response": response,
             "KEMI base": KEMI_base_generation,
             "KEMI muffin": KEMI_muffin_generation,
         })
     output_path = os.path.join(output_dir, "KEMI.json")
     json.dump(output_data, open(output_path, "w"), indent=4)
+
     ######### process TransESC #########
     TransESC_real = json.load(open(TransESC_real_path, "r"))
     with open(TransESC_base_path, "r") as file:
@@ -152,18 +158,15 @@ def format_all():
     with open(TransESC_muffin_path, "r") as file:
         TransESC_muffin = file.readlines()
     output_data = []
-    for real, base, muffin in zip(TransESC_real, TransESC_base, TransESC_muffin):
-        context = []
-        role = "Seeker: "
-        for idx, c in enumerate(base.split("\t")[:-1:-1]):
-            context.append(f"{role}: {c}")
-            role = "Supporter: " if role == "Seeker: " else "Seeker: "
+    context = context_dict["TransESC"]
+    assert len(TransESC_real) == len(TransESC_base) == len(TransESC_muffin) == len(context)
+    for idx, (real, base, muffin) in enumerate(zip(TransESC_real, TransESC_base, TransESC_muffin)):
         base_response = base.split("\t")[-1]
         muffin_response = muffin.split("\t")[-1]
         output_data.append({
             # "sample_id": real["sample_id"],
-            "context": context[::-1],
-            "response": real.strip(),
+            "context": [context[idx]["context"]],
+            # "response": real.strip(),
             "TransESC base": base_response,
             "TransESC muffin": muffin_response,
         })
@@ -193,6 +196,6 @@ def format_ablation():
 
 
 # MultiESC_generation()
-# format_all()
+format_all()
 
-format_ablation()
+# format_ablation()

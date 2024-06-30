@@ -23,16 +23,18 @@ try:
         device = "mps"
 except:  # noqa: E722
     pass
+torch.cuda.empty_cache()
 
 
 def main(
         load_8bit: bool = False,
-        batch_size: int = 10,
-        base_model: str = "yahma/llama-7b-hf",
-        lora_weights: str = "checkpoint-initial",
-        prompt_template: str = "alpaca_option",  # The prompt template to use, will default to alpaca.
+        batch_size: int = 8,
+        base_model: str = "baffo32/decapoda-research-llama-7B-hf",
+        # lora_weights: str = "",
+        lora_weights: str = "lora-7b/checkpoint-1920",
+        prompt_template: str = "alpaca",  # The prompt template to use, will default to alpaca.
 ):
-    set_seed(42)
+    set_seed(0)
     base_model = base_model or os.environ.get("BASE_MODEL", "")
     assert (
         base_model
@@ -53,27 +55,30 @@ def main(
                 lora_weights,
                 torch_dtype=torch.float16,
             )
+            model.merge_and_unload()
     elif device == "mps":
         model = LlamaForCausalLM.from_pretrained(
             base_model,
             device_map={"": device},
             torch_dtype=torch.float16,
         )
-        model = PeftModel.from_pretrained(
-            model,
-            lora_weights,
-            device_map={"": device},
-            torch_dtype=torch.float16,
-        )
+        if lora_weights != "":
+            model = PeftModel.from_pretrained(
+                model,
+                lora_weights,
+                device_map={"": device},
+                torch_dtype=torch.float16,
+            )
     else:
         model = LlamaForCausalLM.from_pretrained(
             base_model, device_map={"": device}, low_cpu_mem_usage=True
         )
-        model = PeftModel.from_pretrained(
-            model,
-            lora_weights,
-            device_map={"": device},
-        )
+        if lora_weights != "":
+            model = PeftModel.from_pretrained(
+                model,
+                lora_weights,
+                device_map={"": device},
+            )
 
     # unwind broken decapoda-research config
     model.config.pad_token_id = tokenizer.pad_token_id = 0  # unk
@@ -180,12 +185,11 @@ def main(
     with open('../dataset/finetune_test.jsonl', "r") as file:
         reader = [json.loads(line) for line in file.readlines()]
 
-    fp = open("./test_Llama.txt", "w", encoding="utf-8")
-    # fp = open("./test_Llama_vanilla.txt", "w", encoding="utf-8")
-    # fp = open("./test_Llama_tuned.txt", "w", encoding="utf-8")
+    fp = open("./test_LLaMA_1920.txt", "w", encoding="utf-8")
+    # fp = open("./test_LLaMA_tuned.txt", "w", encoding="utf-8")
     options = {
         "strategy": ["MI Adherent", "MI Non-Adherent", "Other"],
-        "coherence": ["Yes", "No", "Not Sure"],
+        "coherence": ["Yes", "No"],
         "empathy": ["No Empathy", "Weak Empathy", "Strong Empathy"]
     }
 

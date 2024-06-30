@@ -32,9 +32,9 @@ TEMPLATE = {
     "coherence": COHERENCE
 }
 
-SAVE_DIR = "./feedback"
-prompt_template = "/home/jiashuo/codes/Muffin/reward_model/Llama/templates/alpaca_option"
-lora_weights = "/home/jiashuo/codes/Muffin/reward_model/Llama/checkpoint-initial"
+SAVE_DIR = "./generation_feedback"
+prompt_template = "/home/jiashuo/codes/Muffin/reward_model/Llama/templates/alpaca"
+lora_weights = "/home/jiashuo/codes/Muffin/reward_model/Llama/lora-7b"
 
 
 def process_raw(input_data, output_dir, sort="muffin"):
@@ -47,28 +47,38 @@ def process_raw(input_data, output_dir, sort="muffin"):
         "coherence": []
     }
     for line in input_data:
-        for key, value in TEMPLATE.items():
-            context_list = line["context"]
-            Seeker = ""
-            Supporter = ""
-            for uttr in context_list[::-1]:
-                if uttr.startswith("Seeker: "):
-                    Seeker = uttr[8:] + Seeker
-                else:
-                    Supporter = uttr[10:] + Supporter
-                if Seeker != "":
-                    break
-            if sort == "real":
-                response = line["response"]
-            else:
-                response = line["generation"]
-            processed_line = {
-                "task": value["task"],
-                "instruction": value["instruction"],
-                "input": value["input"].format(context=Seeker, response=Supporter + " " + response),
-                "option": value["option"]
-            }
-            processed[key].append(processed_line)
+        context = line["context"]
+        response = line["generation"]
+        if len(context) > 0:
+            conv = context[-1]
+        else:
+            conv = "(Nothing)"
+        empathy_inst = {
+            "task": "empathy",
+            "instruction": TEMPLATE["empathy"]["instruction"],
+            "input": TEMPLATE["empathy"]["input"].format(context=conv, response=response),
+        }
+        skill_inst = {
+            "task": "strategy",
+            "instruction": TEMPLATE["strategy"]["instruction"],
+            "input": TEMPLATE["strategy"]["input"].format(context=conv, response=response),
+        }
+        if len(context) == 3:
+            conv = f"Help-seeker: {context[-3]}\nSupporter: {context[-2]}\nHelp-seeker: {context[-1]}"
+        elif len(context) == 2:
+            conv = f"Supporter: {context[-2]}\nHelp-seeker: {context[-1]}"
+        elif len(context) == 1:
+            conv = f"Help-seeker: {context[-1]}"
+        elif len(context) == 0:
+            conv = ""
+        coherence_inst = {
+            "task": "coherence",
+            "instruction": TEMPLATE["coherence"]["instruction"],
+            "input": TEMPLATE["coherence"]["input"].format(context=conv, response=response),
+        }
+        processed["empathy"].append(empathy_inst)
+        processed["strategy"].append(skill_inst)
+        processed["coherence"].append(coherence_inst)
 
     for key, value in processed.items():
         with open(os.path.join(output_dir, f"instruction_{key}.jsonl"), "w") as f:
@@ -77,15 +87,16 @@ def process_raw(input_data, output_dir, sort="muffin"):
 
 
 def compute_feedback():
-    models = {"vanilla", "strat", "MultiESC", "TransESC", "KEMI"}
-    modes = {"real", "base", "muffin"}
-    facets = {"empathy", "strategy", "coherence"}
+    models = ["vanilla", "strat", "MultiESC", "TransESC", "KEMI"]
+    # models = ["TransESC"]
+    modes = ["base", "muffin"]
+    facets = ["empathy", "strategy", "coherence"]
     for model in models:
         print("=====================================")
         print(f"Model {model}:")
         for mode in modes:
             feedback = []
-            data_dir = f"feedback/{model}-{mode}"
+            data_dir = f"generation_feedback/{model}-{mode}"
             for facet in facets:
                 data_path = os.path.join(data_dir, f"feedback_{facet}.txt")
                 with open(data_path, "r") as f:
@@ -115,12 +126,12 @@ def main():
         for line in data_reader:
             base_data.append({
                 "context": line["context"],
-                "response": line["response"],
+                # "response": line["response"],
                 "generation": line[f"{key} base"]
             })
             muffin_data.append({
                 "context": line["context"],
-                "response": line["response"],
+                # "response": line["response"],
                 "generation": line[f"{key} muffin"]
             })
 
@@ -128,8 +139,8 @@ def main():
             process_raw(base_data, os.path.join(SAVE_DIR, f"{key}-base"), sort="base")
         if not os.path.exists(os.path.join(SAVE_DIR, f"{key}-muffin")):
             process_raw(muffin_data, os.path.join(SAVE_DIR, f"{key}-muffin"), sort="muffin")
-        if not os.path.exists(os.path.join(SAVE_DIR, f"{key}-real")):
-            process_raw(base_data, os.path.join(SAVE_DIR, f"{key}-real"), sort="real")
+        # if not os.path.exists(os.path.join(SAVE_DIR, f"{key}-real")):
+        #     process_raw(base_data, os.path.join(SAVE_DIR, f"{key}-real"), sort="real")
 
         print(f"Generating feedback for {key} base")
         llama_feedback(
@@ -143,12 +154,12 @@ def main():
             prompt_template=prompt_template,
             lora_weights=lora_weights
         )
-        print(f"Generating feedback for {key} real")
-        llama_feedback(
-            input_data_dir=os.path.join(SAVE_DIR, f"{key}-real"),
-            prompt_template=prompt_template,
-            lora_weights=lora_weights
-        )
+        # print(f"Generating feedback for {key} real")
+        # llama_feedback(
+        #     input_data_dir=os.path.join(SAVE_DIR, f"{key}-real"),
+        #     prompt_template=prompt_template,
+        #     lora_weights=lora_weights
+        # )
 
 
 def ablation_feedback():
@@ -166,9 +177,9 @@ def ablation_feedback():
 
 def compute_ablation_feedback():
     path_dict = {
-        "empathy": "./feedback/strat_empathy",
-        "strategy": "./feedback/strat_strategy",
-        "coherence": "./feedback/strat_coherence"
+        "empathy": "./generation_feedback/strat_empathy",
+        "strategy": "./generation_feedback/strat_strategy",
+        "coherence": "./generation_feedback/strat_coherence"
     }
     facets = {"empathy", "strategy", "coherence"}
     for key, path in path_dict.items():
@@ -190,5 +201,5 @@ def compute_ablation_feedback():
 if __name__ == "__main__":
     # main()
     # ablation_feedback()
-    # compute_feedback()
-    compute_ablation_feedback()
+    compute_feedback()
+    # compute_ablation_feedback()

@@ -6,6 +6,7 @@ import fire
 from datasets import load_dataset
 import torch
 import transformers
+from transformers.trainer_utils import set_seed
 
 """
 Unused imports:
@@ -27,24 +28,26 @@ from utils.prompter import Prompter
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "max_split_size_mb:256"
 
+set_seed(0)
+
 
 def train(
         # model/data params
-        base_model: str = "yahma/llama-7b-hf",  # the only required argument
+        base_model: str = "baffo32/decapoda-research-llama-7B-hf",  # the only required argument
         # training hyperparams
-        batch_size: int = 72,
-        micro_batch_size: int = 18,
-        num_epochs: int = 1,
+        batch_size: int = 128,
+        micro_batch_size: int = 16,
+        num_epochs: int = 12,
         learning_rate: float = 3e-4,
         cutoff_len: int = 1024,
         # lora hyperparams
         lora_r: int = 16,
         lora_alpha: int = 16,
         lora_dropout: float = 0.05,
-        lora_target_modules: List[str] = ["q_proj", "k_proj", "v_proj", "o_proj"],
         # lora_target_modules: List[str] = ["q_proj", "v_proj"],
+        lora_target_modules: List[str] = ["q_proj", "k_proj", "v_proj", "o_proj"],
         # llm hyperparams
-        train_on_inputs: bool = True,  # if False, masks out inputs in loss
+        train_on_inputs: bool = False,  # if False, masks out inputs in loss
         add_eos_token: bool = False,
         group_by_length: bool = False,  # faster, but produces an odd training loss curve
         # wandb params
@@ -52,9 +55,9 @@ def train(
         wandb_run_name: str = "",
         wandb_watch: str = "",  # options: false | gradients | all
         wandb_log_model: str = "",  # options: false | true
-        output_dir="./yahma-lora-7b",
-        resume_from_checkpoint: str = "yahma/alpaca-7b-lora",  # either training checkpoint or final adapter
-        prompt_template_name: str = "alpaca_option",  # The prompt template to use, will default to alpaca.
+        output_dir="lora-7b",
+        resume_from_checkpoint: str = "tloen/alpaca-lora-7b",  # either training checkpoint or final adapter
+        prompt_template_name: str = "alpaca",  # The prompt template to use, will default to alpaca.
 ):
     if int(os.environ.get("LOCAL_RANK", 0)) == 0:
         print(
@@ -145,13 +148,12 @@ def train(
         full_prompt = prompter.generate_prompt(
             data_point["instruction"],
             data_point["input"],
-            data_point["option"],
             data_point["output"],
         )
         tokenized_full_prompt = tokenize(full_prompt)
         if not train_on_inputs:
             user_prompt = prompter.generate_prompt(
-                data_point["instruction"], data_point["input"], data_point["option"]
+                data_point["instruction"], data_point["input"]
             )
             tokenized_user_prompt = tokenize(
                 user_prompt, add_eos_token=add_eos_token
@@ -227,12 +229,12 @@ def train(
             num_train_epochs=num_epochs,
             learning_rate=learning_rate,
             fp16=True,
-            logging_steps=20,
+            logging_steps=200,
             optim="adamw_torch",
             evaluation_strategy="steps",
             save_strategy="steps",
-            eval_steps=0.1,
-            save_steps=0.1,
+            eval_steps=0.2,
+            save_steps=0.2,
             output_dir=output_dir,
             save_total_limit=3,
             load_best_model_at_end=True,
@@ -248,17 +250,17 @@ def train(
     )
     model.config.use_cache = False
 
-    old_state_dict = model.state_dict
-    model.state_dict = (
-        lambda self, *_, **__: get_peft_model_state_dict(
-            self, old_state_dict()
-        )
-    ).__get__(model, type(model))
+    # old_state_dict = model.state_dict
+    # model.state_dict = (
+    #     lambda self, *_, **__: get_peft_model_state_dict(
+    #         self, old_state_dict()
+    #     )
+    # ).__get__(model, type(model))
 
     if torch.__version__ >= "2" and sys.platform != "win32":
         model = torch.compile(model)
 
-    trainer.train()
+    trainer.train(resume_from_checkpoint=resume_from_checkpoint)
 
     model.save_pretrained(output_dir)
 

@@ -32,9 +32,9 @@ def main(
         input_data_dir: str = "",
         base_model: str = "yahma/llama-7b-hf",
         lora_weights: str = "checkpoint-initial",
-        prompt_template: str = "alpaca_option",  # The prompt template to use, will default to alpaca.
+        prompt_template: str = "alpaca",  # The prompt template to use, will default to alpaca.
 ):
-    set_seed(42)
+    set_seed(1)
     base_model = base_model or os.environ.get("BASE_MODEL", "")
     assert (
         base_model
@@ -49,11 +49,12 @@ def main(
             torch_dtype=torch.float16,
             device_map="auto",
         )
-        model = PeftModel.from_pretrained(
-            model,
-            lora_weights,
-            torch_dtype=torch.float16,
-        )
+        if lora_weights:
+            model = PeftModel.from_pretrained(
+                model,
+                lora_weights,
+                torch_dtype=torch.float16,
+            )
     elif device == "mps":
         model = LlamaForCausalLM.from_pretrained(
             base_model,
@@ -178,8 +179,7 @@ def main(
         output = tokenizer.batch_decode(s)
         return [prompter.get_response(o) for o in output]
 
-    data_paths = ["instruction_coherence.jsonl", "instruction_empathy.jsonl", "instruction_strategy.jsonl"]
-    # data_paths = ["instruction_empathy.jsonl"]
+    data_paths = ["instruction_empathy.jsonl", "instruction_coherence.jsonl", "instruction_strategy.jsonl"]
     for data_path in data_paths:
         input_data_path = os.path.join(input_data_dir, data_path)
         output_data_path = os.path.join(
@@ -191,8 +191,11 @@ def main(
             reader = [json.loads(line) for line in file.readlines()]
 
         fp = open(output_data_path, "w", encoding="utf-8")
-        options = {"strategy": ["Other", "MI Adherent", "MI Non-Adherent"], "coherence": ["Yes", "No"],
-                   "empathy": ["Weak Empathy", "Strong Empathy", "No Empathy"]}
+        options = {
+            "strategy": ["Other", "MI Adherent", "MI Non-Adherent"],
+            "coherence": ["Yes", "No"],
+            "empathy": ["Weak Empathy", "Strong Empathy", "No Empathy"]
+        }
         prompt_batch = []
         task = ""
         for line in tqdm(reader, total=len(reader)):

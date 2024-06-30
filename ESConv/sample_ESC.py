@@ -262,6 +262,7 @@ for infer_idx, infer_input_file in enumerate(args.infer_input_file):
 
     if not os.path.exists(save_dir):
         os.mkdir(save_dir)
+        print("Make dir:", save_dir)
 
     with open(os.path.join(save_dir, f'candidates.json'), 'w') as f:
         json.dump(res, f, ensure_ascii=False, indent=2, sort_keys=False)

@@ -14,8 +14,8 @@ TEMPLATE = {
     "strategy": STRATEGY,
     "coherence": COHERENCE
 }
-prompt_template = "/home/jiashuo/codes/Muffin/reward_model/Llama/templates/alpaca_option"
-lora_weights = "/home/jiashuo/codes/Muffin/reward_model/Llama/checkpoint-initial"
+prompt_template = "/home/jiashuo/codes/Muffin/reward_model/Llama/templates/alpaca"
+lora_weights = "/home/jiashuo/codes/Muffin/reward_model/Llama/lora-7b/checkpoint-1920"
 
 
 def human_feedback():
@@ -57,8 +57,7 @@ def process_raw(input_data, output_dir):
             processed_line = {
                 "task": value["task"],
                 "instruction": value["instruction"],
-                "input": value["input"].format(context=Seeker, response=Supporter + " " + response),
-                "option": value["option"]
+                "input": value["input"].format(context=Seeker, response=Supporter + " " + response)
             }
             processed[key].append(processed_line)
 

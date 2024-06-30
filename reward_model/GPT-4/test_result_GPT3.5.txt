@@ -1,0 +1,3201 @@
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "No Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "Other"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "No"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "Other"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "No Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No Empathy\n", "answer": "No Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "No Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "No"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "No Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "Other"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "No Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "No Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "No Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "Other"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "Other"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No Empathy\n", "answer": "No Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "No Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "No Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No Empathy\n", "answer": "Weak Empathy"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Weak Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "MI Adherent\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Non-Adherent\n", "answer": "MI Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "MI Adherent\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Strong Empathy\n", "answer": "Strong Empathy"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Adherent"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "Yes\n", "answer": "Yes"}
+{"real_label": "No\n", "answer": "Yes"}
+{"real_label": "Other\n", "answer": "MI Non-Adherent"}
+{"real_label": "Other\n", "answer": "MI Adherent"}

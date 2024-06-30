@@ -30,7 +30,6 @@ class Prompter(object):
             self,
             instruction: str,
             input: Union[None, str] = None,
-            option: Union[None, str] = None,
             label: Union[None, str] = None,
             is_train: bool = True,
             **kwargs,
@@ -38,12 +37,8 @@ class Prompter(object):
         # returns the full prompt from instruction and optional input
         # if a label (=response, =output) is provided, it's also appended.
         if input:
-            if is_train:
-                option_list = option.split(", ")
-                random.shuffle(option_list)
-                option = ", ".join(option_list)
             res = self.template["prompt_input"].format(
-                instruction=instruction, input=input, option=option,
+                instruction=instruction, input=input
             )
         else:
             res = self.template["prompt_no_input"].format(
