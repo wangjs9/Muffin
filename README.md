@@ -43,18 +43,16 @@ Muffin can significantly mitigate unhelpful response generation while enhancing 
 
 ## Preparing Environment
 ```bash
-conda env create -f env.yml -n alignment
-conda activate alignment
+conda env create -f env.yml -n muffin
+conda activate muffin
 ```
 
 ## Experiments
-### Preference Modeling with Disagreement
-Refer to the [preference_modeling](./PreferenceModeling) folder for more details.
+### AI feedback model training
+Refer to the [reward_model](./reward_model) folder for more details.
 
-### Calibration for Alignment
-Emotional Support Conversation: Refer to the [ESConv](./ESConv) and [MultiESC](./MultiESC) folders.
+### Calibration
+We tested Muffin on five different models.
 
-Integrity RoT Generation: Refer to the [mic](./mic) folder.
+For Vanilla and Joint, refer to [ESConv](./ESConv) folder, [KEMI](./KEMI) folder for KEMI, [MultiESC](./MultiESC) folder for MultiESC, and [TransESC](./TransESC) folder for TransESC.
 
-### Checkpoints
-The checkpoints can be downloaded from [here](https://drive.google.com/drive/folders/1tnUURfjGYVJPfDpllKPBFUWh4N_Ppyoz?usp=drive_link).
