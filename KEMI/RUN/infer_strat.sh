@@ -1,0 +1,22 @@
+CUDA_VISIBLE_DEVICES=3 python infer_KEMI.py \
+  --config_name strat \
+  --inputter_name strat \
+  --data_name esconv \
+  --knowledge_name sbert \
+  --add_nlg_eval \
+  --add_mi_analysis \
+  --seed 13 \
+  --load_checkpoint ./DATA/strat.strat.esconv.sbert/2023-06-30223758.3e-05.16.1gpu/epoch-4.bin \
+  --fp16 false \
+  --max_input_length 256 \
+  --max_decoder_input_length 40 \
+  --max_length 40 \
+  --min_length 15 \
+  --infer_batch_size 16 \
+  --infer_input_file ./_reformat/ \
+  --temperature 0.7 \
+  --top_k 30 \
+  --top_p 0.3 \
+  --num_beams 1 \
+  --repetition_penalty 1 \
+  --no_repeat_ngram_size 3

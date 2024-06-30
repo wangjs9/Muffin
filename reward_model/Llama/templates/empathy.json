@@ -1,0 +1,5 @@
+{
+  "task": "empathy",
+  "instruction": "In the context of empathy, there are three key aspects to consider: (1) Emotional Reactions – expressing emotions like warmth, compassion, and concern that the peer supporter feels after reading the seeker's post; (2) Interpretations – conveying an understanding of the feelings and experiences inferred from the seeker's post; (3) Explorations – seeking a deeper understanding of the seeker by delving into feelings and experiences not explicitly stated in the post. Each aspect can exhibit varying degrees of communication—none, weak, or strong—based on the manner in which related content is expressed. The overall level of empathy is determined by the highest level achieved across these three aspects.\n\nYour task is to identify the level of empathy in the Supporter's response within the provided conversation.",
+  "input": "Help-Seeker says: '{context}'\nSupporter says: '{response}'\nIdentify the empathy level of the Supporter's response. Choose one of the following options: No Empathy, Weak Empathy, Strong Empathy."
+}

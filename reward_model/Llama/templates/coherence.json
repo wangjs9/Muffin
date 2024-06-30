@@ -1,0 +1,5 @@
+{
+  "task": "coherence",
+  "instruction": "Determine if the supporter's response aligns coherently with the seeker's post. A coherent response should maintain a logical flow of ideas in correspondence with the post, often including supporting arguments or evidence directly related to the post's content.",
+  "input": "Conversation Context:\n{context}\n\nThe last supporter statements is:\nSupporter says: '{response}'\nIdentify whether the supporter's last statement is coherent with the help-seeker's post. Answer 'Yes' if the supporter's response is coherent with the help-seeker's post, otherwise answer 'No'."
+}
