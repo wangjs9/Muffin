@@ -1,7 +1,5 @@
 ## Running Scripts for *Muffin (ESConv)*
 
-![image](../Figures/calibration.drawio.png)
-
 ### Requirements
 
 ### Data Download
