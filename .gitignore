@@ -1,0 +1,10 @@
+__pycache__
+.idea
+.gitignore
+.Analysis
+.API_Model
+.reward_model/chatarena
+.reward_model/GPT-4
+.reward_model/rebuttal_additional_dataset.py
+.reward_model/compute_metrics.py
+.Human_Rating
