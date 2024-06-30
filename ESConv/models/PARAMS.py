@@ -1,2 +1,0 @@
-SAMPLE = True
-TEMPERATURE = 1.0

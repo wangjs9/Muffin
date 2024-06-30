@@ -1,5 +1,0 @@
-CUDA_VISIBLE_DEVICES=2 nohup python infer.py --input_data_dir /home/jiashuo/codes/Muffin/TransESC/candidate_data > inference_trans.log 2>&1;
-CUDA_VISIBLE_DEVICES=3 nohup python infer.py --input_data_dir /home/jiashuo/codes/Muffin/KEMI/DATA/strat.strat.esconv.sbert/2023-06-30223758.3e-05.16.1gpu/candidates_10_epoch-4.bin_train > inference_kemi.log 2>&1;
-CUDA_VISIBLE_DEVICES=4 nohup python infer.py --input_data_dir /home/jiashuo/codes/Muffin/MultiESC/final_output/lwg_whlookahead_generate_candidate_10 > inference_multi.log 2>&1;
-CUDA_VISIBLE_DEVICES=5 nohup python infer.py --input_data_dir /home/jiashuo/codes/Muffin/ESConv/DATA/vanilla.vanilla/2023-06-20204748.3e-05.16.1gpu/candidates_10_best_model.bin_train > inference_vanilla.log 2>&1;
-CUDA_VISIBLE_DEVICES=7 nohup python infer.py --input_data_dir /home/jiashuo/codes/Muffin/ESConv/DATA/strat.strat/2023-06-20204057.3e-05.16.1gpu/candidates_10_best_model.bin_train > inference_strat.log 2>&1;

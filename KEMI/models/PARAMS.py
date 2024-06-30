@@ -1,3 +1,0 @@
-
-SAMPLE = False
-TEMPERATURE = 1.0

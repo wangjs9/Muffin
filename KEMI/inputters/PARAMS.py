@@ -1,2 +1,0 @@
-
-GOLDEN_TRUTH = False
