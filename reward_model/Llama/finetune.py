@@ -33,7 +33,7 @@ set_seed(0)
 
 def train(
         # model/data params
-        base_model: str = "baffo32/decapoda-research-llama-7B-hf",  # the only required argument
+        base_model: str = "",  # the only required argument
         # training hyperparams
         batch_size: int = 128,
         micro_batch_size: int = 16,
@@ -44,7 +44,6 @@ def train(
         lora_r: int = 16,
         lora_alpha: int = 16,
         lora_dropout: float = 0.05,
-        # lora_target_modules: List[str] = ["q_proj", "v_proj"],
         lora_target_modules: List[str] = ["q_proj", "k_proj", "v_proj", "o_proj"],
         # llm hyperparams
         train_on_inputs: bool = False,  # if False, masks out inputs in loss

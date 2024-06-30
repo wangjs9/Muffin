@@ -30,7 +30,7 @@ def main(
         load_8bit: bool = True,
         batch_size: int = 12,
         input_data_dir: str = "",
-        base_model: str = "yahma/llama-7b-hf",
+        base_model: str = "",
         lora_weights: str = "",
         prompt_template: str = "alpaca",  # The prompt template to use, will default to alpaca.
 ):

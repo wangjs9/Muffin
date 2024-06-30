@@ -21,9 +21,9 @@ except:  # noqa: E722
 
 def main(
         load_8bit: bool = True,
-        base_model: str = "decapoda-research/llama-7b-hf",
-        lora_weights: str = "./lora-alpaca_option",
-        prompt_template: str = "alpaca_option",  # The prompt template to use
+        base_model: str = "",
+        lora_weights: str = "./lora-alpaca",
+        prompt_template: str = "alpaca",  # The prompt template to use
         output_path: str = "./infer_output.txt",
         cutoff_len: int = 1024,
 ):

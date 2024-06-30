@@ -20,16 +20,17 @@ Process the dataset (including obtain the dataset for coherence classification) 
 
 ```console
 python data_process.py
+cd ../
 ```
 
 ### Instruction Tuning
 
 ```console
-python finetune.py --base_model decapoda-research/llama-7b-hf --output_dir ./lora-alpaca_option
+python finetune.py --base_model decapoda-research/llama-7b-hf --output_dir ./lora-alpaca 
 ```
 
-### Test Model
+### Test the Multifaceted AI Feedback Model
 
 ```console
-python infer.py --base_model decapoda-research/llama-7b-hf --lora_weight ./lora-alpaca_option
+python generate.py --base_model decapoda-research/llama-7b-hf --lora_weight ./lora-alpaca
 ```

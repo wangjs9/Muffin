@@ -29,9 +29,9 @@ torch.cuda.empty_cache()
 def main(
         load_8bit: bool = False,
         batch_size: int = 8,
-        base_model: str = "baffo32/decapoda-research-llama-7B-hf",
+        base_model: str = "",
         # lora_weights: str = "",
-        lora_weights: str = "lora-7b/checkpoint-1920",
+        lora_weights: str = "",
         prompt_template: str = "alpaca",  # The prompt template to use, will default to alpaca.
 ):
     set_seed(0)
