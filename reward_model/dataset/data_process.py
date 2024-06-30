@@ -13,8 +13,8 @@ import argparse
 from tqdm import tqdm
 
 parse = argparse.ArgumentParser()
-parse.add_argument("--openai_api_key", type=str, default="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")
-parse.add_argument("--openai_api_base", type=str, default="http://localhost:1337/v1")
+parse.add_argument("--openai_api_key", type=str, default="")
+parse.add_argument("--openai_api_base", type=str, default="")
 parse.add_argument("--model_name", type=str, default=g4f.models.gpt_4)
 args = parse.parse_args()
 
@@ -25,16 +25,6 @@ MODEL_NAME = args.model_name
 from chatarena.message import Message
 from chatarena.agent import Player
 from chatarena.backends import OpenAIChat
-
-proxy = [
-    "http://198.204.225.74:17042",
-    "http://62.210.214.60:17037",
-    "http://204.12.211.114:17018",
-    "http://198.204.225.74:17027",
-    "http://173.208.196.210:17051"
-]
-
-os.environ["G4F_PROXY"] = proxy.pop(0)
 
 
 def process_empathy():
@@ -165,34 +155,29 @@ def process_strategy():
 
 
 def get_hard(response):
-    while True:
-        modifier = Player(
-            name="modifier",
-            role_desc="You are master in language and communication. Change a few words of a sentence making it to "
-                      "talk about a totally different or opposite thing.",
-            backend=OpenAIChat(temperature=0, model=MODEL_NAME)
-        )
-        request = Message(
-            agent_name="requester",
-            content=f"Modify the sentence:\n{response}\n\nChange a few words, especially adjective, verb, and noun in "
-                    f"the response, so that the original and the modified one talk about totally different or opposite "
-                    f"things/topics. Output the modified sentence only.",
-            turn=1
-        )
-        modified_response = modifier([request])
-        if "Sending signal to end the conversation." in modified_response:
-            os.environ["G4F_PROXY"] = proxy.pop(0)
-        elif modified_response != "":
-            modified_response = modified_response.split(":")[-1].strip()
-            break
+    modifier = Player(
+        name="modifier",
+        role_desc="You are master in language and communication. Change a few words of a sentence making it to "
+                  "talk about a totally different or opposite thing.",
+        backend=OpenAIChat(temperature=0, model=MODEL_NAME)
+    )
+    request = Message(
+        agent_name="requester",
+        content=f"Modify the sentence:\n{response}\n\nChange a few words, especially adjective, verb, and noun in "
+                f"the response, so that the original and the modified one talk about totally different or opposite "
+                f"things/topics. Output the modified sentence only.",
+        turn=1
+    )
+    modified_response = modifier([request])
+    modified_response = modified_response.split(":")[-1].strip()
+
     logging.info(modified_response)
     return modified_response
 
 
 def process_coherence():
     random.seed(42)
-    with open("/home/csjwang/Documents/Muffin/ESConv/DATA/train.txt", "r") as f:
-        # with open("/home/jiashuo/codes/Muffin/ESConv/DATA/train.txt", "r") as f:
+    with open("/Muffin/ESConv/DATA/train.txt", "r") as f:
         reader = f.readlines()
         reader = [json.loads(line)["dialog"] for line in reader]
     writer = open("processed_coherence.txt", "r")
@@ -281,9 +266,6 @@ def process_coherence():
                     ############################# Hard Response #############################
                     if line_counter > written_num:
                         hard_neg_response = get_hard(pos_response)
-                        # context_list.append("\n".join(conv_context_list[-3:]))
-                        # response_list.append(hard_neg_response)
-                        # answer_list.append("No\n")
                         line = {
                             "task": "coherence",
                             "instruction":
@@ -308,30 +290,6 @@ def process_coherence():
                 conv_context_list.append(conv_context)
                 last_speaker = "sys"
     writer.close()
-
-    # assert len(context_list) == len(response_list) == len(answer_list)
-    # all_data = []
-    # for conv_context, response, answer in zip(context_list, response_list, answer_list):
-    #     line = {
-    #         "task": "coherence",
-    #         "instruction":
-    #             "Determine if the supporter's response aligns coherently with the seeker's post. A "
-    #             "coherent response should maintain a logical flow of ideas in correspondence with the "
-    #             "post, often including supporting arguments or evidence directly related to the post's "
-    #             "content.",
-    #         "input": f"Conversation Context:\n{conv_context}\n\nThe last supporter statements is:\n"
-    #                  f"Supporter says: '{response[:256]}'\nIdentify whether the supporter's last "
-    #                  f"statement is coherent with the help-seeker's post. Answer 'Yes' if the supporter's "
-    #                  f"response is coherent with the help-seeker's post, otherwise answer 'No'.",
-    #         "output": answer
-    #     }
-    #     all_data.append(line)
-    #
-    # random.shuffle(all_data)
-    # with open("processed_coherence.txt", "w") as f:
-    #     for line in all_data:
-    #         f.write(json.dumps(line))
-    #         f.write("\n")
 
 
 def create_data_json_file():
