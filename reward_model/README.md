@@ -32,5 +32,5 @@ python finetune.py --base_model decapoda-research/llama-7b-hf --output_dir ./lor
 ### Test the Multifaceted AI Feedback Model
 
 ```console
-python generate.py --base_model decapoda-research/llama-7b-hf --lora_weight ./lora-alpaca
+python test.py --base_model decapoda-research/llama-7b-hf --lora_weight ./lora-alpaca
 ```
