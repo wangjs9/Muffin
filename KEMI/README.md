@@ -21,7 +21,7 @@ python sample_ESConv.py --config_name vanilla --inputter_name vanilla --seed 0 -
 `./DATA/vanilla.vanilla/best_model.bin` is the path with the checkpoint of the base model. Change all * vanilla * as *
 strat * to generate samples for the Joint model.
 
-## Getting AI Feedback
+### Getting AI Feedback
 
 First, process the raw by enter ``reward_model/Llama`` and run:
 
@@ -29,23 +29,7 @@ First, process the raw by enter ``reward_model/Llama`` and run:
 python process_raw.py --input_file_dir /home/jiashuo/codes/Muffin/KEMI/DATA/strat.strat.esconv.sbert/candidates_10_best_model.bin_train
 ```
 
-## Preprocessing Training Data
-
-First, enter `_reformat` and run `python process.py`.
-
-Then, run `bash RUN/prepare_vanilla.sh` to preprocess the training data.
-
-## Training Muffin Model
+### Training Muffin Model
 
 Run `bash RUN/train_vanilla.sh` to train your model.
 
-## Inference with a Model
-
-Every time of model training will create a new folder in `DATA/{inputter_name}.{config_name}`, which is named after the
-time when the training starts. You should select a checkpoint (it may be based on the PPL of validation), and replace
-the checkpoint path in `RUN/infer_vanilla.sh --load_checkpoint` with the path of your selected checkpoint.
-
-Then, run `bash RUN/infer_vanilla.sh` to do the inference.
-
-**Note**: When you run `infer_strat.sh`, you can change `GOLDEN_TRUTH` in  `inputters/PARAMS.py` to control whether use
-the golden strategy during inference.
