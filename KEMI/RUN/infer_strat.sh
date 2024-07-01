@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=3 python infer_KEMI.py \
+python infer_KEMI.py \
   --config_name strat \
   --inputter_name strat \
   --data_name esconv \

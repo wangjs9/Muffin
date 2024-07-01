@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=3 python sample_KEMI.py \
+python sample_KEMI.py \
   --config_name strat \
   --inputter_name strat \
   --data_name esconv \

@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=6 python mitigation_KEMI.py \
+python mitigation_KEMI.py \
   --config_name strat \
   --inputter_name strat \
   --data_name esconv \

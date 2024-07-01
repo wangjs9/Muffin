@@ -1,6 +1,6 @@
 ## Running Scripts for *Muffin (ESConv)*
 
-### Data Download
+### Downloading the Dataset
 
 Download [ESConv.json](https://raw.githubusercontent.com/thu-coai/Emotional-Support-Conversation/main/ESConv.json) and [strategy.json](https://raw.githubusercontent.com/thu-coai/Emotional-Support-Conversation/main/strategy.json) and put them in the folder `DATA`.
 
@@ -13,7 +13,7 @@ python prepare.py --config_name vanilla --inputter_name vanilla --train_input_fi
 python prepare.py --config_name strat --inputter_name strat --train_input_file DATA/train.txt --max_input_length 160  --max_decoder_input_length 40
 ```
 
-### Base Model Training
+### Training Base Model
 Run:
 
 ```console
@@ -38,7 +38,7 @@ python process_raw.py --input_file_dir /home/jiashuo/codes/Muffin/ESConv/DATA/va
 python process_raw.py --input_file_dir /home/jiashuo/codes/Muffin/ESConv/DATA/strat.strat/candidates_10_best_model.bin_train
 ```
 
-### Optimize Model
+### Training Muffin Model
 
 Run:
 
@@ -49,7 +49,7 @@ python mitigation_ESConv.py --config_name strat --inputter_name strat --eval_inp
 
 Change ``--preference_model_dir`` and ``--base_model_dir`` to your own model directories.
 
-### Model Inference
+### Inference with a Model
 
 Run:
 
