@@ -1,8 +1,8 @@
-CUDA_VISIBLE_DEVICES=6 python sample_ESC.py \
+python sample_ESC.py \
   --config_name strat \
   --inputter_name strat \
   --seed 0 \
-  --load_checkpoint ./DATA/strat.strat/2023-06-20204057.3e-05.16.1gpu/best_model.bin \
+  --load_checkpoint ./DATA/strat.strat/xxx.bin  \
   --fp16 false \
   --max_input_length 160 \
   --max_decoder_input_length 40 \

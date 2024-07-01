@@ -1,8 +1,8 @@
-CUDA_VISIBLE_DEVICES=4 python sample_ESC.py \
+python sample_ESC.py \
   --config_name vanilla \
   --inputter_name vanilla \
   --seed 0 \
-  --load_checkpoint ./DATA/vanilla.vanilla/2023-06-20204748.3e-05.16.1gpu/best_model.bin \
+  --load_checkpoint ./DATA/vanilla.vanilla/xxx.bin \
   --fp16 false \
   --max_input_length 160 \
   --max_decoder_input_length 40 \
